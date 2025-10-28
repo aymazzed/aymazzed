@@ -15,8 +15,8 @@
 
 <div align="center">
 <a href="https://github.com/xtwqz">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xtwqz&theme=codeSTACKr" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xtwqz&theme=codeSTACKr" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aymazzed&theme=codeSTACKr" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymazzed&theme=codeSTACKr" height="180em" />
 
   
 </div>
